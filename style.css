@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+}
+.heading{
+    text-align: center;
+}
+.header {
+    background: #bc4e9c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f80759, #bc4e9c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #EEED09;    
+    width:100%;
+    top:0;
+}
+h2{
+    margin-left: 490px;
+}
+h3{
+    text-align: center;
+    margin-left:790px;
+}
